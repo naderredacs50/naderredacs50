@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nader Reda, I'm Egyptian
+- 👀 I’m interested in frontend devolopment
+- 🌱 I’m currently learning (react.js, three.js)
+- 💞️ I’m looking to collaborate on (part time job in frontend)
+- 📫 How to reach me (my email is nadrrdaalmnsy@gmail.com)
